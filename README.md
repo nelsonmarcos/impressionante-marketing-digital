@@ -17,7 +17,7 @@ https://www.99freelas.com.br/
 https://www.descript.com/
 
 ## Paleta de cores
-https://colorhunt.co/
+https://colorhunt.co/<br>
 https://color.adobe.com/pt/explore
 
 # Chatbot - Mensagens automatizadas
