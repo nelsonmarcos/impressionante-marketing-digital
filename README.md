@@ -15,3 +15,10 @@ https://www.99freelas.com.br/
 
 ## Edição de vídeo
 https://www.descript.com/
+
+## Paleta de cores
+https://colorhunt.co/
+https://color.adobe.com/pt/explore
+
+# Chatbot - Mensagens automatizadas
+https://manychat.com/
