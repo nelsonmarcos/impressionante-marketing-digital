@@ -1,6 +1,11 @@
 # Impressionante - Marketing digital
 Repositórios de recursos para marketing digital
 
+## Banco de imagens gratuitos
+[Pexels](https://www.pexels.com/pt-br/)<br>
+[Stocksnap](https://stocksnap.io/)<br>
+[Unsplash](https://unsplash.com/)
+
 ## Afiliados
 https://www.lomadee.com/<br>
 https://www.admitad.com/
@@ -12,6 +17,10 @@ https://www.99freelas.com.br/
 ## Temas wordpress
 [Avenger](https://go.hotmart.com/F42691831O)<br>
 [WolfWP](https://www.lp.wolfwp.com.br/)
+
+## Email marketing
+[Mail Chimp](https://mailchimp.com/)<br>
+[Nitronews](https://www.nitronews.com.br/)
 
 ## Edição de vídeo
 https://www.descript.com/
