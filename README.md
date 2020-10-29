@@ -16,7 +16,7 @@ https://www.99freelas.com.br/
 
 ## Temas wordpress
 [Avenger](https://go.hotmart.com/F42691831O)<br>
-[WolfWP](https://www.lp.wolfwp.com.br/)
+[WolfWP](https://edzz.la/VB61F?a=115571)
 
 ## Email marketing
 [Mail Chimp](https://mailchimp.com/)<br>
