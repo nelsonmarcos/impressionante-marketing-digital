@@ -25,9 +25,17 @@ https://www.99freelas.com.br/
 ## Edição de vídeo
 https://www.descript.com/
 
+## Criação de vídeos animados
+https://videoscribe.co
+
 ## Paleta de cores
 https://colorhunt.co/<br>
 https://color.adobe.com/pt/explore
 
-# Chatbot - Mensagens automatizadas
+## Chatbot - Mensagens automatizadas
 https://manychat.com/
+
+## Estratégia de conteúdo
+https://answerthepublic.com/
+
+
