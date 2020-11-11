@@ -38,4 +38,7 @@ https://manychat.com/
 ## Estratégia de conteúdo
 https://answerthepublic.com/
 
+## Músicas e sons para uso gratuito
+[NCS](Copyhttps://ncs.io/)
+
 
