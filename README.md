@@ -39,6 +39,6 @@ https://manychat.com/
 https://answerthepublic.com/
 
 ## Músicas e sons para uso gratuito
-[NCS](Copyhttps://ncs.io/)
+[NCS](https://ncs.io/)
 
 
