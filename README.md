@@ -5,6 +5,7 @@ Repositórios de recursos para marketing digital
 [Pexels](https://www.pexels.com/pt-br/)<br>
 [Stocksnap](https://stocksnap.io/)<br>
 [Unsplash](https://unsplash.com/)
+[Pixabay](https://pixabay.com/)
 
 ## Afiliados
 https://www.lomadee.com/<br>
