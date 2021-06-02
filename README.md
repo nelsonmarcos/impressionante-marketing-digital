@@ -38,6 +38,7 @@ https://manychat.com/
 
 ## Estratégia de conteúdo
 https://answerthepublic.com/
+https://keywordtool.io/
 
 ## Músicas e sons para uso gratuito
 [NCS](https://ncs.io/)
